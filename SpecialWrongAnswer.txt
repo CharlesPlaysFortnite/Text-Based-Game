@@ -1,0 +1,3 @@
+Oh no! Better luck next time. The dragon is very powerful!|20
+We must run, we've been defeated.|20
+Ahhh, we've failed. You can try harder next time!|20

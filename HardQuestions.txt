@@ -1,0 +1,5 @@
+an empty paint can|20|r
+metal coke can|20|r
+dog poo|20|o
+aluminium foil|20|g
+broken plates|20|g

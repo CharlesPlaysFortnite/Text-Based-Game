@@ -1,0 +1,2 @@
+Special|20
+NotSpecial|80

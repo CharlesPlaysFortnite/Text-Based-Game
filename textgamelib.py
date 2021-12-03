@@ -2,6 +2,7 @@ import random
 import termcolor
 import time
 import sys
+import os
 
 #L. Yearwood
 #November 9, 2020
@@ -259,7 +260,7 @@ def RandomWeightedQAndA(filename):
         rightWeightBarrier.append(sumOfWeights)
         i += 1 
 
-    randomGenNum = random.randint(0, sumOfWeights - 1)
+    randomGenNum = random.randint(0, sumOfWeights-1)
     i = 0
     while i < len(weights) and randomGenNum >= rightWeightBarrier[i]:
         i += 1
@@ -267,4 +268,20 @@ def RandomWeightedQAndA(filename):
         output.append(possibilities[i])
         output.append(answers[i])
         return output
+
 ##################################################
+#M. Chen
+#November 23rd, 2021
+#Clears the console. 
+#It's recommended to use this function at the beginning of a program once to clear the two lines of output that appear each time a program is ran.
+
+#perameters: 0
+#preconditions: os library is imported. (import os)
+#return value: no.
+
+def clearConsole():
+    clear = lambda: os.system('clear')
+    clear()
+
+##################################################
+

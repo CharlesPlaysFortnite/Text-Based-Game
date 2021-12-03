@@ -1,0 +1,40 @@
+a glass bottle|20|r
+a glass jar|20|r
+a hard plastic container|20|r
+a soap bottle|20|r
+a bottle of coke|20|r
+shopping bags|20|r
+milk bags|20|r
+frozen fruit/vegetable bags|20|r
+a book|20|r
+newspaper|20|r
+a piece of tissue paper|20|r
+a piece of cardboard|20|r
+milk cartons|20|r
+a toilet paper core|20|r
+foam packaging|20|r
+foam packaging peanuts|20|g
+plastic wrap|20|g
+a mask|20|g
+a black plastic container|20|g
+a cleaning wipe|20|g
+a toothpick|20|g
+plastic bubble wrap|20|g
+pencil shavings|20|g
+metal gift wrappings|20|g
+gum packages|20|g
+a straw|20|g
+dental floss|20|g
+a ziplock bag|20|g
+popsickle sticks|20|g
+a q-tip|20|g
+a paper napkin|20|o
+an orange|20|o
+an apple|20|o
+a piece of meat|20|o
+a slice of cake|20|o
+leftover pasta|20|o
+eggshells|20|o
+fish bones|20|o
+an apple core|20|o
+a corn cob|20|o
