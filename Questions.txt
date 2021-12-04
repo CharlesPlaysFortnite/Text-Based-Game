@@ -26,7 +26,7 @@ gum packages|20|g
 a straw|20|g
 dental floss|20|g
 a ziplock bag|20|g
-popsickle sticks|20|g
+popsicle sticks|20|g
 a q-tip|20|g
 a paper napkin|20|o
 an orange|20|o

@@ -105,6 +105,7 @@ while keepPlaying.lower() == "happy" or keepPlaying.lower() == "yes" or keepPlay
         currentQuestion += 1
         input("\nPress enter to continue.")
     
+    lib.clearConsole()
     mixer.Channel(1).pause()
     mixer.Channel(0).pause()
     mixer.music.load("celeb-music.mp3")
